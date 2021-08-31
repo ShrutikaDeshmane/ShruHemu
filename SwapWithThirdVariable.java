@@ -4,6 +4,9 @@ import java.util.Scanner;
 
 public class SwapWithThirdVariable {
 public static void main(String[] args) {
+
+	System.out.println("swapping ");
+
 	double a, b, c;
 	System.out.println("The value of a is ");
 	Scanner sc1=new Scanner(System.in);
